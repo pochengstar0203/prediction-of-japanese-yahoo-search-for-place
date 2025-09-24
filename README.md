@@ -2,7 +2,7 @@
 Analyze and predict the location traffic of Japanese people on Yahoo through visual analysis and hand-engraved neural network.
 
 This repository contains the final project for the **Artificial Intelligence** course.  
-It includes a written report and two Jupyter notebooks that demonstrate location prediction modeling.
+It includes two Jupyter notebooks that demonstrate location prediction modeling.
 
 ## 📁 Project Structure
 
