@@ -6,9 +6,6 @@ It includes a written report and two Jupyter notebooks that demonstrate location
 
 ## 📁 Project Structure
 
-- **人工智慧期末報告.pdf**  
-  The final written report (in Chinese) detailing the project background, methodology, experiments, and results.
-
 - **第一地點預測.ipynb**  
   Jupyter Notebook for predicting the first location.  
   Includes data preprocessing, model training, and evaluation steps.
